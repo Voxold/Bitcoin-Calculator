@@ -29,7 +29,7 @@ In this project, you'll gain hands-on experience with:
 To get started with the project, clone this repository and open the index.html file in your browser.
 
 ```
-git clone https://github.com/your-username/bitcoin-usd-converter.git
+git clone https://github.com/Voxold/Bitcoin-Calculator
 ```
 ```
 cd Bitcoin-Calculator
