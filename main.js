@@ -61,5 +61,3 @@ calculateBtn.addEventListener("click", () => {
     // Calculate and update the front-end
   });
 });
-
-
