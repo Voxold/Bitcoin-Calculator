@@ -1,4 +1,7 @@
 # Bitcoin to USD Converter
+![alt text](image.png)
+
+
 
 Welcome to the Bitcoin to USD Converter project! This repository contains the code for a simple yet functional web application that allows users to convert Bitcoin (BTC) to US Dollars (USD) in real-time.
 Project Overview
