@@ -28,6 +28,8 @@ To get started with the project, clone this repository and open the index.html f
 
 ```
 git clone https://github.com/your-username/bitcoin-usd-converter.git
+```
+```
 cd Bitcoin-Calculator
 ```
 ## Usage
